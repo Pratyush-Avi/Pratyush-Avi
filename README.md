@@ -48,3 +48,10 @@ Here are some ideas to get you started:
 </a>
  </div>
  <div align="center">
+  
+  
+ ## Follow Me At
+<a href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/pratyush.avi/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
