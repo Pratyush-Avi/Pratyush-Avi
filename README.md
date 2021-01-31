@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning different programming languages and focusing on python and java
 - 👯 I’m looking to collaborate on research projects.
-- 📫 How to reach me: via <a href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+- 📫 How to reach me: via <a href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>
 
 
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
