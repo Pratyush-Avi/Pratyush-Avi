@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <code><img alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/></code>
 <code><img alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></code>
 <code><img alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
-<code><img height="60" width="60" src="https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/visualstudiocode.svg" /></code>
+<code><img height="20" width="28px" src="https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/visualstudiocode.svg" /></code>
 
