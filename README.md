@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <code><img alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
 <code><img  height="25" width="28px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /></code>
 <code><img alt="A" title="A" width="28px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/></code>
-<code><img alt="K" title="Keil" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/1200px-Keil_logo.svg.png"/></code>
+<code><img alt="K" title="Keil" width="60px" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/1200px-Keil_logo.svg.png"/></code>
 
 ## Github Stats
 <a href="https://github.com/Pratyush-Avi">
