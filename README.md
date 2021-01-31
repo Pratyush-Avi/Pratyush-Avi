@@ -34,3 +34,11 @@ Here are some ideas to get you started:
 <code><img alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
 <code><img  height="25" width="28px" src="https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/visualstudiocode.svg" /></code>
 
+## Github Stats
+<a href="https://github.com/Pratyush-Avi">
+  <img align="center" alt="Pratyush-Avi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyush-Avi&show_icons=true&theme=tokyonight">
+</a>
+</div>
+
+<div align="center">
+
