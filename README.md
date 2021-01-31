@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning different programming languages and focusing on python and java
 - 👯 I’m looking to collaborate on research projects.
 - 📫 How to reach me: via <a href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/">LinkedIn</a>
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 
 
 ## Tools and Languages
