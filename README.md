@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via <a href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://www.linkedin.com/in/pratyush-avi-0b1b9b152/">LinkedIn</a>
 
 
+## Tools and Languages
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/></code>
 <code><img alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></code>
