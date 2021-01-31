@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+## Top Languages
+<a href="https://github.com/Pratyush-Avi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Avi&theme=tokyonight&layout=compact">
+</a>
+ </div>
