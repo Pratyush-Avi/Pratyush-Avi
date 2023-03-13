@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing Bachelor's of Technology in  Information Technology  
-- 🌱 I’m currently learning different programming languages and focusing on python and java
+- 🔭 I have been graduated as Bachelor's of Technology in  Information Technology  
+- 🌱 I’m currently working on cloud computing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### I'm a third year Information Technology undergraduate at SVKM NMIMS, India.
+### I'm a graduate in Information Technology at SVKM NMIMS, India.
 
 - 🌱 I’m currently learning different programming languages and focusing on python and java
 - 👯 I’m looking to collaborate on research projects.
